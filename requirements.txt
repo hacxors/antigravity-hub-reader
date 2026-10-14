@@ -1,0 +1,11 @@
+# ==============================================================================
+# Antigravity Hub - Requirements
+# ==============================================================================
+# Este projeto utiliza exclusivamente a Biblioteca Padrão do Python (Standard Library).
+# Nenhuma dependência externa de terceiros é necessária.
+#
+# Requisitos:
+# - Python 3.9 ou superior
+# - Módulos nativos utilizados: hashlib, json, mimetypes, os, platform, re,
+#   sqlite3, sys, threading, webbrowser, datetime, http.server, pathlib, urllib
+# ==============================================================================
